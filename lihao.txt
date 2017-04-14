@@ -1,8 +1,2 @@
 create new file lihao
-Creating a new branch is quick and simple
-<<<<<<< HEAD
-Git is a free software
-=======
-haha
-haha2
->>>>>>> dev
+Creating a new branch is quick and simple last
