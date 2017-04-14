@@ -1,1 +1,2 @@
 create new file lihao
+Createing a new branch is quick and simple
